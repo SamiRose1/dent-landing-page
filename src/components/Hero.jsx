@@ -2,8 +2,8 @@ import Image from "next/image";
 import HeroPng from "../images/hero.jpg";
 const Hero = () => {
   return (
-    <div className="h-screen flex justify-around items-center bg-[url('../images/main.jpg')] bg-cover">
-      <div className="flex justify-center items-center colm-auto">
+    <div className="h-screen flex justify-around items-center bg-sky-100">
+      <div className=" justify-center items-center table-row ">
         <h1>Welcome!</h1>
         <p>
           Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facilis vero
